@@ -1,17 +1,17 @@
 {
   "news": [
     {
-      "newsID": "endless_mode_coming_soon",
-      "titleKey": "Endless Mode Coming Soon - Late February!",
-      "bodyKey": "Sinner, are you ready for a new challenge?\n\nWe're about to launch ENDLESS MODE, where you can test your strategic skills against infinite waves of increasingly powerful enemies!\n\nWhat to expect:\n\n INFINITE WAVES: Face waves that become progressively more difficult. How long can you survive?\n\n ADVANCED STATISTICS: Track your records and improvements over time\n\nEndless Mode will arrive at the END OF FEBRUARY 2026.",
-      "date": "February 17th, 2026",
+      "newsID": "levels_completion_and_game_polishing",
+      "titleKey": "Major Improvements & Polishing Update",
+      "bodyKey": "Sinner, we've been refining every aspect of the game to deliver a smoother and more consistent experience.\n\nHere's what's new:\n\nVISUAL IMPROVEMENTS: Cleaner menus, upgraded maps, and a new death dissolve animation.\n\nAUDIO UPDATES: New tracks for levels and menus, along with enhanced sound effects.\n\nGAMEPLAY BALANCING: Strength has been rebalanced to better match its cost, alongside general gameplay adjustments.\n\nDIFFICULTY SYSTEM UPDATE: Difficulty now directly affects lives and cash rewards.\n\nQUALITY OF LIFE: Interface improvements, refined menus, notification system, and overall usability enhancements.\n\nPERFORMANCE: Significant optimizations to improve stability and responsiveness.\n\nDIALOGUES: New dialogue content has been added to enrich the game world.\n\nOver 30 improvements and fixes to make the experience more polished and solid.\n\nThank you for your support!",
+      "date": "Coming Soon!",
       "iconUrl": ""
     },
     {
-      "newsID": "mid_february_update_2026",
-      "titleKey": "Mid-February Update - News and Improvements",
-      "bodyKey": "We're working hard for you, Sinner! Here's what's new:\n\n RENEWED INTERFACE: We've introduced news and patch notes panels to keep you updated! \n\n IMPROVED GRAPHICS: Social icons in the main menu, improved life icons and cleaner visuals throughout the game\n\n QUALITY OF LIFE: Notification system, skip tutorial button and much more!\n\n RATING SYSTEM: New system that evaluates your performance based on difficulty and level completion\n\n OPTIMIZATIONS: General performance improvements, level 4 balancing and various fixes\n\nOver 30 improvements and corrections to make your experience even smoother!\n\nThank you for your continued support!",
-      "date": "February 17th, 2026",
+      "newsID": "fifth_level",
+      "titleKey": "Final Level of World 1 Coming Soon",
+      "bodyKey": "The journey through the first world is about to reach its climax.\n\nWe're working on the final level, featuring a royal boss designed to challenge your strategy and timing.\n\nPrepare yourself, Sinner. The end of World 1 is near.",
+      "date": "Coming Soon!",
       "iconUrl": ""
     }
   ]
