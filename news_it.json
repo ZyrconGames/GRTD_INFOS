@@ -1,17 +1,17 @@
 {
   "news": [
     {
-      "newsID": "endless_mode_coming_soon",
-      "titleKey": "Modalita' Endless in Arrivo - Fine Febbraio!",
-      "bodyKey": "Peccatore, sei pronto per una nuova sfida?\n\nStiamo per lanciare la MODALITA' ENDLESS, dove potrai testare le tue abilita' strategiche contro ondate infinite di nemici sempre piu' potenti!\n\nCosa aspettarti:\n\nONDATE INFINITE: Affronta ondate che diventano progressivamente piu' difficili. Quanto riuscirai a resistere?\n\nSTATISTICHE AVANZATE: Tieni traccia dei tuoi record e miglioramenti nel tempo\n\nLa Modalita' Endless arrivera' a FINE FEBBRAIO 2026.",
-      "date": "17 Febbraio 2026",
+      "newsID": "levels_completion_and_game_polishing",
+      "titleKey": "Grandi Miglioramenti e Rifiniture",
+      "bodyKey": "Peccatore, stiamo rifinendo ogni aspetto del gioco per offrirti un'esperienza piu' fluida e coerente.\n\nEcco cosa c'e' di nuovo:\n\n MIGLIORAMENTI VISIVI: Menu piu' puliti, mappe aggiornate e una nuova animazione di dissolvenza alla morte.\n\n AGGIORNAMENTI AUDIO: Nuove tracce per i livelli e per i menu, insieme a effetti sonori migliorati.\n\n BILANCIAMENTO GAMEPLAY: Le statistiche di strength sono state ribilanciate per essere piu' coerenti con il costo, insieme ad altri aggiustamenti generali.\n\n AGGIORNAMENTO DIFFICOLTA': La difficolta' ora influisce direttamente su vite e ricompense in denaro.\n\n QUALITA' DELLA VITA: Migliorie all'interfaccia, menu rivisti, sistema di notifiche e usabilita' generale migliorata.\n\n PERFORMANCE: Ottimizzazioni significative per migliorare stabilita' e fluidita'.\n\n DIALOGHI: Aggiunti nuovi dialoghi per arricchire il mondo di gioco.\n\nOltre 30 miglioramenti e correzioni per rendere l'esperienza piu' solida e rifinita.\n\nGrazie per il tuo supporto!",
+      "date": "Coming Soon!",
       "iconUrl": ""
     },
     {
-      "newsID": "mid_february_update_2026",
-      "titleKey": "Aggiornamento di meta' Febbraio - Novita' e Miglioramenti",
-      "bodyKey": "Stiamo lavorando sodo per te, Peccatore! Ecco cosa c'e' di nuovo:\n\nINTERFACCIA RINNOVATA: Abbiamo introdotto i pannelli news e patch notes per tenerti aggiornato!\n\nGRAFICA MIGLIORATA: Icone social nel menu principale, icone vita migliorate e visual piu' puliti in tutto il gioco\n\nQUALITA' DELLA VITA: Sistema di notifiche, pulsante salta tutorial e molto altro!\n\nSISTEMA DI VALUTAZIONE: Nuovo sistema che valuta le tue prestazioni in base a difficolta' e completamento livelli\n\nOTTIMIZZAZIONI: Miglioramento generale delle prestazioni, bilanciamento livello 4 e vari fix\n\nOltre 30 miglioramenti e correzioni per rendere la tua esperienza ancora piu' fluida!\n\nGrazie per il tuo supporto continuo!",
-      "date": "17 Febbraio 2026",
+      "newsID": "fifth_level",
+      "titleKey": "Livello Finale del Mondo 1 in Arrivo",
+      "bodyKey": "Il viaggio nel primo mondo sta per raggiungere il suo culmine.\n\nStiamo lavorando al livello finale, con un boss reale progettato per mettere alla prova la tua strategia e il tuo tempismo.\n\nPreparati, Peccatore. La fine del Mondo 1 e' vicina.",
+      "date": "Coming Soon!",
       "iconUrl": ""
     }
   ]
