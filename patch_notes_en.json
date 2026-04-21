@@ -1,33 +1,35 @@
 {
   "patchNotes": [
     {
-      "version": "1.3.0",
-      "date": "February 17th, 2026",
-      "titleKey": "Mid-February Update",
+      "version": "1.4.0",
+      "date": "Coming Soon!",
+      "titleKey": "Major Improvements & Polishing Update",
       "sections": [
         {
           "type": "features",
           "itemKeys": [
-            "NEW: News and Patch Notes pages",
-            "NEW: Added social media links to main menu",
-            "NEW: Rating system based on performance during games",
-            "NEW: Bestiary and Tutorial pages",
-            "NEW: Added new settings for screen size"
+            "NEW: Dialogue content added to enrich the game world"
           ]
         },
         {
           "type": "improvements",
           "itemKeys": [
-            "The tower info panel will now more closely display the tower's stats based on their maximum potential",
-            "Adjusted the enemy spawns for level 1-4",
-            "Enemies pathing has been slightly adjusted",
-            "General visual updates to various UI elements and Sprites"
+            "Cleaner menus and upgraded maps",
+            "Added a new death dissolve animation",
+            "New tracks for levels and menus",
+            "Enhanced sound effects",
+            "Rebalanced Strength to better match its cost",
+            "General gameplay adjustments",
+            "Difficulty now affects lives and cash rewards",
+            "Interface improvements and refined menus",
+            "Added a notification system",
+            "Significant performance optimizations for stability and responsiveness"
           ]
         },
         {
           "type": "fixes",
           "itemKeys": [
-            "Adjusted the amount refunded when selling a tower to include the price of power-ups purchased as well as the base price"
+            "Over 30 improvements and fixes for a more polished and consistent experience"
           ]
         }
       ]
