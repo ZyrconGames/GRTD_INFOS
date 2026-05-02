@@ -1,35 +1,30 @@
 {
   "patchNotes": [
     {
-      "version": "1.4.3",
-      "date": "22/04/2026",
-      "titleKey": "Major Improvements & Polishing Update",
+      "version": "1.4.4",
+      "date": "02/05/2026",
+      "titleKey": "Rebalancing Update",
       "sections": [
         {
           "type": "features",
           "itemKeys": [
-            "NEW: Dialogue content added to enrich the game world"
+            ""
           ]
         },
         {
           "type": "improvements",
           "itemKeys": [
-            "Cleaner menus and upgraded maps",
-            "Added a new death dissolve animation",
-            "New tracks for levels and menus",
-            "Enhanced sound effects",
-            "Rebalanced Strength to better match its cost",
-            "General gameplay adjustments",
-            "Difficulty now affects lives and cash rewards",
-            "Interface improvements and refined menus",
-            "Added a notification system",
-            "Significant performance optimizations for stability and responsiveness"
+            "Rebalanced Level 1-1",
+            "Rebalanced Level 1-2",
+            "Rebalanced Level 1-3",
+            "Rebalanced Level 1-4",
+            "Adjusted the track of Level 1-1"
           ]
         },
         {
           "type": "fixes",
           "itemKeys": [
-            "Over 30 improvements and fixes for a more polished and consistent experience"
+            "Minor bug fixes"
           ]
         }
       ]
