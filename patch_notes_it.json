@@ -1,35 +1,28 @@
 {
   "patchNotes": [
     {
-      "version": "1.4.3",
-      "date": "22/04/2026",
-      "titleKey": "Grandi Miglioramenti e Rifiniture",
+      "version": "1.4.4",
+      "date": "02/05/2026",
+      "titleKey": "Aggiornamento di Ribilanciamento",
       "sections": [
         {
           "type": "features",
-          "itemKeys": [
-            "NOVITA': Aggiunti nuovi dialoghi per arricchire il mondo di gioco"
-          ]
+          "itemKeys": []
         },
         {
           "type": "improvements",
           "itemKeys": [
-            "Menu piu' puliti e mappe aggiornate",
-            "Aggiunta una nuova animazione di dissolvenza alla morte",
-            "Nuove tracce per i livelli e per i menu",
-            "Effetti sonori migliorati",
-            "Ribilanciata la statistica Strength per essere piu' coerente con il costo",
-            "Aggiustamenti generali al gameplay",
-            "La difficolta' ora influisce su vite e ricompense in denaro",
-            "Migliorie all'interfaccia e menu rivisti",
-            "Aggiunto un sistema di notifiche",
-            "Ottimizzazioni significative per migliorare stabilita' e fluidita'"
+            "Ribilanciato il Livello 1-1",
+            "Ribilanciato il Livello 1-2",
+            "Ribilanciato il Livello 1-3",
+            "Ribilanciato il Livello 1-4",
+            "Modificato il percorso del Livello 1-1"
           ]
         },
         {
           "type": "fixes",
           "itemKeys": [
-            "Oltre 30 miglioramenti e correzioni per un'esperienza piu' solida e rifinita"
+            "Correzioni di bug minori"
           ]
         }
       ]
