@@ -2,7 +2,7 @@
    "news":[
       {
          "newsID":"General_Update",
-         "titleKey":"General_Update",
+         "titleKey":"General Update",
          "bodyKey":"Thank you for following along with the development progress of Glam Rock TD!\n\nHere's what's new:\n\nVISUAL IMPROVEMENTS: Over half of the menus have recieved a visual overhaul. This is only the beginning, expect cleaner visuals coming through in the next update.\n\nAUDIO UPDATES: Fixed minor bugs with footsteps and changed up multiple tracks and sfx.\n\nGAMEPLAY BALANCING: Towers have recieved various balance adjustments. Including new upgrade paths!\n\nPROFILES ARE ONLINE: You are now able to login/create a profile that will share it's progress across multiple platforms! Further updates to this system will be coming in the upcoming updates.\n\nThank you for your support!",
          "date":"",
          "iconUrl":""
