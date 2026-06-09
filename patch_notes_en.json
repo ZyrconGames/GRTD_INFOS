@@ -1,30 +1,39 @@
 {
-  "patchNotes": [
-    {
-      "version": "1.4.5",
-      "date": "17/05/2026",
-      "titleKey": "Visual and Audio Update",
-      "sections": [
-        {
-          "type": "features",
-          "itemKeys": [
-          ]
-        },
-        {
-          "type": "improvements",
-          "itemKeys": [
-            "Clean visuals for Sun",
-            "Adjusted track for Level 1-2",
-            "Adjusted audio balancing for enemy walk cycles"
-          ]
-        },
-        {
-          "type": "fixes",
-          "itemKeys": [
-            "Minor bug fixes"
-          ]
-        }
-      ]
-    }
-  ]
+   "patchNotes":[
+      {
+         "version":"1.4.6",
+         "date":"08/06/2026",
+         "titleKey":"Tower Rebalancing & UI Reworks",
+         "sections":[
+            {
+               "type":"features",
+               "itemKeys":[
+                  "While purchasing a tower, the panel will now automatically be hidden.",
+                  "Tower panel can now be hidden through a new button.",
+                  "All current maps have had adjustments to their placement zones to account for these changes.",
+                  "Added multiple toggles for dialogue sections",
+                  "Added the option to replay dialogue sections",
+                  "Added option to create an account and log in. This should allow you to play on various devices while not losing progress.",
+                  "Mobile now supports rumble/vibration."
+               ]
+            },
+            {
+               "type":"improvements",
+               "itemKeys":[
+                  "Ui has been adjusted across the entire game. This is part 1 of the larger overhaul to our visual style. Expect the final part of this update to come during our next patch.",
+                  "Footstep noises have been adjusted across all units to better fit animation.",
+                  "Multiple soundtracks updated.",
+                  "Levels 1-2 and 1-4 have had seperate adjustments to the placement zones to ensure the placement matches closer to the visuals."
+               ]
+            },
+            {
+               "type":"fixes",
+               "itemKeys":[
+                  "Fixed overlapping footstep noises causing loud repetitive noises.",
+                  "Minor bug fixes"
+               ]
+            }
+         ]
+      }
+   ]
 }
