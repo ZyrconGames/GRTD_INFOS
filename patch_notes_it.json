@@ -1,30 +1,39 @@
 {
-  "patchNotes": [
-    {
-      "version": "1.4.5",
-      "date": "17/05/2026",
-      "titleKey": "Aggiornamento visivo e audio",
-      "sections": [
-        {
-          "type": "features",
-          "itemKeys": [
-          ]
-        },
-        {
-          "type": "improvements",
-          "itemKeys": [
-            "Finita illustrazione di Sun",
-            "Fixata la musica del livello 2",
-            "Aggiustato il bilanciamento del suono dei passi dei nemici."
-          ]
-        },
-        {
-          "type": "fixes",
-          "itemKeys": [
-            "Bug fix minori"
-          ]
-        }
-      ]
-    }
-  ]
+   "patchNotes":[
+      {
+         "version":"1.4.6",
+         "date":"08/06/2026",
+         "titleKey":"Ribilanciamento Torri & Revisione UI",
+         "sections":[
+            {
+               "type":"features",
+               "itemKeys":[
+                  "Durante l'acquisto di una torre, il pannello ora si nasconde automaticamente.",
+                  "Il pannello delle torri può ora essere nascosto tramite un apposito pulsante.",
+                  "Tutte le mappe hanno ricevuto aggiustamenti alle zone di posizionamento per adattarsi a queste modifiche.",
+                  "Aggiunti più toggle per le sezioni di dialogo.",
+                  "Aggiunta la possibilità di riascoltare le sezioni di dialogo.",
+                  "Aggiunta la possibilità di creare un account e accedere, per giocare su più dispositivi senza perdere i progressi.",
+                  "Mobile ora supporta vibrazione/rumble."
+               ]
+            },
+            {
+               "type":"improvements",
+               "itemKeys":[
+                  "UI rivista in tutto il gioco. Questa è la parte 1 del restyling visivo complessivo — la parte finale arriverà con la prossima patch.",
+                  "I rumori dei passi sono stati regolati su tutte le unità per adattarsi meglio alle animazioni.",
+                  "Aggiornate più colonne sonore.",
+                  "I livelli 1-2 e 1-4 hanno ricevuto aggiustamenti separati alle zone di posizionamento per farle corrispondere meglio alla grafica."
+               ]
+            },
+            {
+               "type":"fixes",
+               "itemKeys":[
+                  "Risolto il problema con i rumori dei passi sovrapposti che causavano suoni ripetitivi e fastidiosi.",
+                  "Correzioni minori di bug."
+               ]
+            }
+         ]
+      }
+   ]
 }
