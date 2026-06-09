@@ -1,18 +1,11 @@
 {
-  "news": [
-    {
-      "newsID": "rebalancing_update",
-      "titleKey": "Aggiornamento di ribilanciamento",
-      "bodyKey": "Peccatore, abbiamo ribilanciato tutti i livelli disponibili per un'esperienza di gioco più fluida!\n\nEcco cosa c'è di nuovo:\n\nMIGLIORAMENTI VISIVI: Sfondo più coerente su dispositivi di ogni tipo.\n\nAGGIORNAMENTI AUDIO: Nuove tracce per livelli e menu, insieme a effetti sonori migliorati.\n\nBILANCIAMENTO GAMEPLAY: Ridotta la generazione dei nemici in generale e applicate leggere modifiche alle statistiche delle torri.\n\nGrazie per il tuo supporto!",
-      "date": "",
-      "iconUrl": ""
-    },
-    {
-      "newsID": "fifth_level",
-      "titleKey": "Livello Finale del Mondo 1 in Arrivo",
-      "bodyKey": "Il viaggio nel primo mondo sta per raggiungere il suo climax.\n\nStiamo lavorando al livello finale, con un boss reale progettato per mettere alla prova la tua strategia e il tuo tempismo.\n\nPreparati, Peccatore. La fine del Mondo 1 è vicina.",
-      "date": "In arrivo!",
-      "iconUrl": ""
-    }
-  ]
+   "news":[
+      {
+         "newsID":"General_Update",
+         "titleKey":"General_Update",
+         "bodyKey":"Grazie per seguire lo sviluppo di Glam Rock TD!\n\nEcco le novità:\n\nMIGLIORAMENTI VISIVI: Più della metà dei menu ha ricevuto una revisione grafica. È solo l'inizio — aspettatevi un look ancora più pulito nel prossimo aggiornamento.\n\nAGGIORNAMENTI AUDIO: Corretti alcuni bug minori con i passi e aggiornate diverse tracce musicali ed effetti sonori.\n\nBILANCIAMENTO DEL GAMEPLAY: Le torri hanno ricevuto vari aggiustamenti di bilanciamento, inclusi nuovi percorsi di potenziamento!\n\nI PROFILI SONO ONLINE: Ora puoi accedere o creare un profilo che sincronizzerà i progressi su più piattaforme! Ulteriori miglioramenti a questo sistema arriveranno nei prossimi aggiornamenti.\n\nGrazie per il vostro supporto!",
+         "date":"",
+         "iconUrl":""
+      }
+   ]
 }
