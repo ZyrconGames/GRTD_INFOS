@@ -1,36 +1,48 @@
 {
    "patchNotes":[
       {
-         "version":"1.4.6",
-         "date":"08/06/2026",
-         "titleKey":"Ribilanciamento Torri & Revisione UI",
+         "version":"1.5.0",
+         "date":"05/08/2026",
+         "titleKey":"Restyling UI Parte 2 e Riequilibrio Endless",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "Durante l'acquisto di una torre, il pannello ora si nasconde automaticamente.",
-                  "Il pannello delle torri può ora essere nascosto tramite un apposito pulsante.",
-                  "Tutte le mappe hanno ricevuto aggiustamenti alle zone di posizionamento per adattarsi a queste modifiche.",
-                  "Aggiunti più toggle per le sezioni di dialogo.",
-                  "Aggiunta la possibilità di riascoltare le sezioni di dialogo.",
-                  "Aggiunta la possibilità di creare un account e accedere, per giocare su più dispositivi senza perdere i progressi.",
-                  "Mobile ora supporta vibrazione/rumble."
+                  "Nuovo pannello di visualizzazione livello: la selezione della difficoltà e la ripetizione dei dialoghi sono ora gestite da un'unica schermata, che sostituisce il vecchio flusso di avvio livello.",
+                  "Aggiunto il Bestiario, con pagine e pulsanti dedicati per ogni nemico.",
+                  "Aggiunta la verifica dell'età e l'accettazione della privacy policy durante la creazione del profilo.",
+                  "Ora puoi eliminare il tuo account e tutti i suoi dati direttamente dal pannello profilo.",
+                  "Le torri possono ora essere toccate durante la partita tramite un'area dedicata per aprire il pannello informazioni.",
+                  "Nuova splash screen con animazione di dissolvenza in entrata/uscita e logo FMOD.",
+                  "Le valutazioni sono ora mostrate nel pannello di visualizzazione livello e nel pannello vittoria."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "UI rivista in tutto il gioco. Questa è la parte 1 del restyling visivo complessivo — la parte finale arriverà con la prossima patch.",
-                  "I rumori dei passi sono stati regolati su tutte le unità per adattarsi meglio alle animazioni.",
-                  "Aggiornate più colonne sonore.",
-                  "I livelli 1-2 e 1-4 hanno ricevuto aggiustamenti separati alle zone di posizionamento per farle corrispondere meglio alla grafica."
+                  "Ecco la parte 2 del restyling grafico: l'intera interfaccia è stata ricostruita, inclusi menu principale, pannello di gioco, pannello torri, pannello dialoghi, opzioni, crediti e tutti i popup.",
+                  "Pannelli, contatore ondate, statistiche e dialoghi ora utilizzano animazioni fluide in tutto il gioco.",
+                  "La modalità Endless è stata completamente riequilibrata con una nuova composizione delle ondate e curva di difficoltà.",
+                  "I livelli 2, 3, 4 e 5 hanno ricevuto modifiche al bilanciamento, ed è stato aggiunto un nemico a distanza al livello 2.",
+                  "La connettività offline è ora gestita correttamente, con un pannello di riprova durante le operazioni di avvio.",
+                  "I pannelli di vittoria e sconfitta sono stati rielaborati sia nel layout che nelle funzionalità.",
+                  "Musiche e banchi FMOD aggiornati, inclusa una nuova musica per il livello 1-4.",
+                  "Aggiunte molte traduzioni mancanti e rimosse quelle duplicate in tutto il gioco."
                ]
             },
             {
                "type":"fixes",
                "itemKeys":[
-                  "Risolto il problema con i rumori dei passi sovrapposti che causavano suoni ripetitivi e fastidiosi.",
-                  "Correzioni minori di bug."
+                  "Corretto un caso in cui la partita poteva bloccarsi quando un nemico non veniva ucciso.",
+                  "Corretto il problema delle torri bloccate che apparivano nell'elenco delle torri piazzabili.",
+                  "Corretto l'aggiornamento errato delle statistiche delle torri dopo l'acquisto di un potenziamento.",
+                  "Corretto il suono del mammut che non cambiava tonalità al variare della velocità di gioco.",
+                  "Corretti gli striscioni Showtime visibili quando non dovevano esserlo e la loro posizione nel pannello informazioni torre.",
+                  "Corretti i cursori delle opzioni che non mostravano i valori iniziali corretti e lo scorrimento del pannello impostazioni.",
+                  "Corrette le traduzioni del pannello di accesso, la navigazione indietro e il ripristino di impostazioni e lingua al logout.",
+                  "Corretta la creazione di un nuovo account ospite dopo l'eliminazione del precedente.",
+                  "Corretti bug del tutorial, ombre delle torri e vari problemi di posizionamento di dialoghi e personaggi.",
+                  "Rimossa la splash screen predefinita del motore e asset e animazioni non utilizzati."
                ]
             }
          ]
