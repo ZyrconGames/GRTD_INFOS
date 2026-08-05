@@ -1,36 +1,48 @@
 {
    "patchNotes":[
       {
-         "version":"1.4.6",
-         "date":"08/06/2026",
-         "titleKey":"Tower Rebalancing & UI Reworks",
+         "version":"1.5.0",
+         "date":"05/08/2026",
+         "titleKey":"UI Overhaul Part 2 & Endless Rebalance",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "While purchasing a tower, the panel will now automatically be hidden.",
-                  "Tower panel can now be hidden through a new button.",
-                  "All current maps have had adjustments to their placement zones to account for these changes.",
-                  "Added multiple toggles for dialogue sections",
-                  "Added the option to replay dialogue sections",
-                  "Added option to create an account and log in. This should allow you to play on various devices while not losing progress.",
-                  "Mobile now supports rumble/vibration."
+                  "New level display panel: difficulty selection and dialogue replay are now handled from a single screen, replacing the old level start flow.",
+                  "Added the Bestiary, with dedicated pages and buttons for each enemy.",
+                  "Added an age verification step and privacy policy acceptance during profile creation.",
+                  "You can now delete your account and all of its data directly from the profile panel.",
+                  "Towers can now be tapped during gameplay through a dedicated area to open their info panel.",
+                  "New splash screen with animated fade in/out and FMOD logo.",
+                  "Ratings are now shown on the level display panel and on the victory panel."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "Ui has been adjusted across the entire game. This is part 1 of the larger overhaul to our visual style. Expect the final part of this update to come during our next patch.",
-                  "Footstep noises have been adjusted across all units to better fit animation.",
-                  "Multiple soundtracks updated.",
-                  "Levels 1-2 and 1-4 have had seperate adjustments to the placement zones to ensure the placement matches closer to the visuals."
+                  "Part 2 of the visual overhaul is here: the entire UI has been rebuilt, including main menu, game panel, tower panel, dialogue panel, options, credits and all popups.",
+                  "Panels, wave counter, stats and dialogues now use smooth animations across the whole game.",
+                  "Endless mode has been completely rebalanced with a new wave composition and difficulty curve.",
+                  "Levels 2, 3, 4 and 5 received balance adjustments, and a shooting enemy was added to level 2.",
+                  "Offline connectivity is now handled properly, with a retry panel during startup operations.",
+                  "Victory and defeat panels have been reworked in both layout and functionality.",
+                  "Music and FMOD banks updated, including new music for level 1-4.",
+                  "Many missing translations added and duplicate ones removed across the whole game."
                ]
             },
             {
                "type":"fixes",
                "itemKeys":[
-                  "Fixed overlapping footstep noises causing loud repetitive noises.",
-                  "Minor bug fixes"
+                  "Fixed a case where the gameplay could get stuck when an enemy was not killed.",
+                  "Fixed locked towers appearing in the list of placeable towers.",
+                  "Fixed tower stats not updating correctly after buying a power up.",
+                  "Fixed the mammoth sound not changing pitch when the game speed was changed.",
+                  "Fixed Showtime banners being visible when they shouldn't and their position in the tower info panel.",
+                  "Fixed options sliders not showing their correct starting values and the settings panel scroll.",
+                  "Fixed login panel translations, back navigation and settings/language reset on logout.",
+                  "Fixed creating a new guest account after deleting the previous one.",
+                  "Fixed tutorial bugs, tower shadows and several dialogue and character positioning issues.",
+                  "Removed the default engine splash screen and unused assets and animations."
                ]
             }
          ]
