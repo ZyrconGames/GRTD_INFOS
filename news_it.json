@@ -1,11 +1,11 @@
 {
-   "news":[
+   "news": [
       {
-         "newsID":"General_Update",
-         "titleKey":"Aggiornamento Generale",
-         "bodyKey":"Grazie per aver seguito i progressi dello sviluppo di Glam Rock TD!\n\nEcco le novità:\n\nIL RESTYLING GRAFICO È COMPLETO: Ogni menu del gioco è stato ricostruito con il nostro nuovo stile visivo, e pannelli, dialoghi e contatori si muovono con animazioni completamente nuove. Questa è la seconda e ultima parte del restyling iniziato con l'aggiornamento precedente.\n\nUN NUOVO MODO DI INIZIARE UN LIVELLO: La selezione della difficoltà e la ripetizione dei dialoghi si trovano ora in un'unica schermata di livello ridisegnata. Anche i pannelli di vittoria e sconfitta sono stati rielaborati, e le valutazioni sono finalmente mostrate ovunque dovrebbero esserlo.\n\nCONOSCI I TUOI NEMICI: Arriva il Bestiario, con una pagina dedicata a ogni nemico che affronterai.\n\nENDLESS, RIEQUILIBRATA: La modalità Endless è stata completamente riequilibrata con una nuova composizione delle ondate e curva di difficoltà. Anche i livelli dal 2 al 5 hanno ricevuto modifiche al bilanciamento, e il livello 2 ora include un nemico a distanza.\n\nACCOUNT E PRIVACY: Ora puoi eliminare il tuo account e i suoi dati in qualsiasi momento dal pannello profilo, e la creazione dell'account include la verifica dell'età e l'accettazione della privacy policy. Il gioco offline e la stabilità del login sono stati migliorati.\n\nAUDIO: Nuova musica per il livello 1-4, banchi FMOD aggiornati e diverse correzioni sonore, incluso il problema di tonalità del mammut al cambio di velocità.\n\nGrazie per il tuo supporto!",
-         "date":"",
-         "iconUrl":""
+         "newsID": "Launch_2_0_0",
+         "titleKey": "Benvenuto in Glam Rock TD!",
+         "bodyKey": "Glam Rock TD è ufficialmente disponibile su Google Play!\n\nGrazie per essere qui fin dal primo giorno. Quella che era una piccola idea ora è uno spettacolo completo: livelli della storia da superare, torri da sbloccare e potenziare, una modalità Endless da spingere il più lontano possibile e un Bestiario pieno di nemici da scoprire.\n\nCrea il tuo profilo per mettere al sicuro i tuoi progressi e la tua collezione, poi alza il volume e che lo spettacolo abbia inizio.\n\nQuesto è solo il primo atto: altri contenuti e miglioramenti sono già in arrivo. Grazie per il tuo supporto!",
+         "date": "06/09/2026",
+         "iconUrl": ""
       }
    ]
 }
