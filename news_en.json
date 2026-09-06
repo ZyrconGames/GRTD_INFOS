@@ -1,10 +1,10 @@
 {
    "news":[
       {
-         "newsID":"General_Update",
-         "titleKey":"General Update",
-         "bodyKey":"Thank you for following along with the development progress of Glam Rock TD!\n\nHere's what's new:\n\nTHE VISUAL OVERHAUL IS COMPLETE: Every menu in the game has now been rebuilt with our new visual style, and panels, dialogues and counters move with brand new animations. This is the second and final part of the overhaul we started last update.\n\nA NEW WAY TO START A LEVEL: Difficulty selection and dialogue replay now live in a single, redesigned level screen. Victory and defeat panels have been reworked too, and ratings are finally shown everywhere they should be.\n\nMEET YOUR ENEMIES: The Bestiary is here, with a dedicated page for every enemy you'll face.\n\nENDLESS, REBALANCED: Endless mode has been completely rebalanced with a new wave composition and difficulty curve. Levels 2 to 5 got balance passes as well, and level 2 now features a shooting enemy.\n\nACCOUNTS AND PRIVACY: You can now delete your account and its data at any time from the profile panel, and account creation includes age verification and privacy policy acceptance. Offline play and login stability have been improved.\n\nAUDIO: New music for level 1-4, updated FMOD banks and several sound fixes, including the mammoth pitch issue on speed change.\n\nThank you for your support!",
-         "date":"",
+         "newsID":"Launch_2_0_0",
+         "titleKey":"Welcome to Glam Rock TD!",
+         "bodyKey":"Glam Rock TD is officially out on Google Play!\n\nThank you for being here on day one. What started as a small idea is now a full show: story levels to beat, towers to unlock and upgrade, an Endless mode to push as far as you can, and a Bestiary full of enemies to discover.\n\nCreate your profile to keep your progress and your collection safe, then turn up the volume and let the show begin.\n\nThis is only the first act: more content and improvements are already on the way. Thank you for your support!",
+         "date":"06/09/2026",
          "iconUrl":""
       }
    ]
