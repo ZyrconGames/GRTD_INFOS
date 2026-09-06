@@ -1,48 +1,26 @@
 {
    "patchNotes":[
       {
-         "version":"1.5.0",
-         "date":"05/08/2026",
-         "titleKey":"UI Overhaul Part 2 & Endless Rebalance",
+         "version":"2.0.0",
+         "date":"06/09/2026",
+         "titleKey":"Official Launch",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "New level display panel: difficulty selection and dialogue replay are now handled from a single screen, replacing the old level start flow.",
-                  "Added the Bestiary, with dedicated pages and buttons for each enemy.",
-                  "Added an age verification step and privacy policy acceptance during profile creation.",
-                  "You can now delete your account and all of its data directly from the profile panel.",
-                  "Towers can now be tapped during gameplay through a dedicated area to open their info panel.",
-                  "New splash screen with animated fade in/out and FMOD logo.",
-                  "Ratings are now shown on the level display panel and on the victory panel."
+                  "Glam Rock TD is officially out on Google Play!",
+                  "Play through the story levels, unlock new towers and upgrade them with power ups.",
+                  "Jump into Endless mode and see how long you can keep the show going.",
+                  "Open the Bestiary to get to know every enemy you'll face.",
+                  "Create your profile to save your progress and your collection."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "Part 2 of the visual overhaul is here: the entire UI has been rebuilt, including main menu, game panel, tower panel, dialogue panel, options, credits and all popups.",
-                  "Panels, wave counter, stats and dialogues now use smooth animations across the whole game.",
-                  "Endless mode has been completely rebalanced with a new wave composition and difficulty curve.",
-                  "Levels 2, 3, 4 and 5 received balance adjustments, and a shooting enemy was added to level 2.",
-                  "Offline connectivity is now handled properly, with a retry panel during startup operations.",
-                  "Victory and defeat panels have been reworked in both layout and functionality.",
-                  "Music and FMOD banks updated, including new music for level 1-4.",
-                  "Many missing translations added and duplicate ones removed across the whole game."
-               ]
-            },
-            {
-               "type":"fixes",
-               "itemKeys":[
-                  "Fixed a case where the gameplay could get stuck when an enemy was not killed.",
-                  "Fixed locked towers appearing in the list of placeable towers.",
-                  "Fixed tower stats not updating correctly after buying a power up.",
-                  "Fixed the mammoth sound not changing pitch when the game speed was changed.",
-                  "Fixed Showtime banners being visible when they shouldn't and their position in the tower info panel.",
-                  "Fixed options sliders not showing their correct starting values and the settings panel scroll.",
-                  "Fixed login panel translations, back navigation and settings/language reset on logout.",
-                  "Fixed creating a new guest account after deleting the previous one.",
-                  "Fixed tutorial bugs, tower shadows and several dialogue and character positioning issues.",
-                  "Removed the default engine splash screen and unused assets and animations."
+                  "A brand new look for the whole game, with redesigned menus and smooth animations.",
+                  "New music and sounds for every level.",
+                  "Plenty of balance tweaks, new translations and fixes to keep the show running smoothly."
                ]
             }
          ]
