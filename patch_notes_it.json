@@ -1,26 +1,26 @@
 {
-   "patchNotes": [
+   "patchNotes":[
       {
-         "version": "2.0.0",
-         "date": "06/09/2026",
-         "titleKey": "Uscita Ufficiale",
-         "sections": [
+         "version":"2.0.1",
+         "date":"06/19/2026",
+         "titleKey":"Patch Minore",
+         "sections":[
             {
-               "type": "features",
-               "itemKeys": [
-                  "Glam Rock TD è ufficialmente disponibile su Google Play!",
-                  "Affronta i livelli della storia, sblocca nuove torri e potenzia le tue difese con i power up.",
-                  "Lanciati nella modalità Endless e scopri per quanto riesci a tenere in piedi lo spettacolo.",
-                  "Apri il Bestiario per conoscere tutti i nemici che dovrai affrontare.",
-                  "Crea il tuo profilo per salvare i tuoi progressi e la tua collezione."
+               "type":"features",
+               "itemKeys":[
+                  "Sono stati apportati alcuni miglioramenti ai sistemi del gioco.",
+                  "Questa è una piccola patch che precede la nostra prossima grande patch, che includerà diverse modifiche agli asset artistici e audio.",
+                  "Grazie per il vostro continuo supporto, ricordatevi di valutarci e di lasciare una recensione sul Play Store!"
                ]
             },
             {
-               "type": "improvements",
-               "itemKeys": [
-                  "Un aspetto completamente nuovo per tutto il gioco, con menu ridisegnati e animazioni fluide.",
-                  "Nuove musiche e nuovi suoni per ogni livello.",
-                  "Tante modifiche al bilanciamento, nuove traduzioni e correzioni per far filare lo spettacolo liscio."
+               "type":"improvements",
+               "itemKeys":[
+                  "Risolto il problema per cui la provocazione di Strength non riusciva a colpire correttamente il bersaglio.",
+                  "Modificata l'icona dell'app sui dispositivi Android.",
+                  "Risolto il problema con le dimensioni dello schermo sui dispositivi Windows.",
+                  "Aggiunte ulteriori informazioni all'informativa sulla privacy.",
+                  "Aggiunte diverse traduzioni italiane che prima mancavano."
                ]
             }
          ]
