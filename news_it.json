@@ -1,11 +1,11 @@
 {
-   "news": [
+   "news":[
       {
-         "newsID": "Launch_2_0_0",
-         "titleKey": "Benvenuto in Glam Rock TD!",
-         "bodyKey": "Glam Rock TD è ufficialmente disponibile su Google Play!\n\nGrazie per essere qui fin dal primo giorno. Quella che era una piccola idea ora è uno spettacolo completo: livelli della storia da superare, torri da sbloccare e potenziare, una modalità Endless da spingere il più lontano possibile e un Bestiario pieno di nemici da scoprire.\n\nCrea il tuo profilo per mettere al sicuro i tuoi progressi e la tua collezione, poi alza il volume e che lo spettacolo abbia inizio.\n\nQuesto è solo il primo atto: altri contenuti e miglioramenti sono già in arrivo. Grazie per il tuo supporto!",
-         "date": "06/09/2026",
-         "iconUrl": ""
+         "newsID":"Launch_2_0_1",
+         "titleKey":"Verso la Grandezza",
+         "bodyKey":"Stiamo rilasciando una piccola patch per prepararci al prossimo aggiornamento più ampio dedicato agli asset!\n\nGrazie per continuare a supportarci durante questa produzione, ci vediamo dall'altra parte!",
+         "date":"06/19/2026",
+         "iconUrl":""
       }
    ]
 }
