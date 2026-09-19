@@ -1,26 +1,26 @@
 {
    "patchNotes":[
       {
-         "version":"2.0.0",
-         "date":"06/09/2026",
-         "titleKey":"Official Launch",
+         "version":"2.0.1",
+         "date":"06/19/2026",
+         "titleKey":"Minor Patch",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "Glam Rock TD is officially out on Google Play!",
-                  "Play through the story levels, unlock new towers and upgrade them with power ups.",
-                  "Jump into Endless mode and see how long you can keep the show going.",
-                  "Open the Bestiary to get to know every enemy you'll face.",
-                  "Create your profile to save your progress and your collection."
+                  "A few improvements have been done across the game's systems.",
+                  "This is a small patch before our next large patch which will include several art and audio asset adjustments.",
+                  "Thank you for your continued support, make sure to rate us and leave a review on the Play Store!"
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "A brand new look for the whole game, with redesigned menus and smooth animations.",
-                  "New music and sounds for every level.",
-                  "Plenty of balance tweaks, new translations and fixes to keep the show running smoothly."
+          "Fixed Strength's taunt failing to target properly",
+                  "App icon adjusted on Android devices.",
+                  "Fixed issue with screen size on Windows devices.",
+          "Added additional information to privacy policy.",
+          "Added several Italian translations that were missing before."
                ]
             }
          ]
