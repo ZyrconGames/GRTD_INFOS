@@ -1,10 +1,10 @@
 {
    "news":[
       {
-         "newsID":"Launch_2_0_1",
-         "titleKey":"Verso la Grandezza",
-         "bodyKey":"Stiamo rilasciando una piccola patch per prepararci al prossimo aggiornamento più ampio dedicato agli asset!\n\nGrazie per continuare a supportarci durante questa produzione, ci vediamo dall'altra parte!",
-         "date":"09/19/2026",
+         "newsID":"Launch_2_0_2",
+         "titleKey":"Accedi e Sistemati",
+         "bodyKey":"La versione 2.0.2 è arrivata! Ora puoi accedere e collegare i tuoi progressi con Google, scoprire una selezione dei livelli completamente rinnovata e tuffarti in un Livello 1-1 migliorato.\n\nAbbiamo inoltre corretto diversi bug e aggiunto nuove traduzioni italiane. Grazie per il vostro continuo supporto, le novità più grandi sono ancora all'orizzonte!",
+         "date":"10/06/2026",
          "iconUrl":""
       }
    ]
