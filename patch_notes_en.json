@@ -1,26 +1,27 @@
 {
    "patchNotes":[
       {
-         "version":"2.0.1",
-         "date":"09/19/2026",
-         "titleKey":"Minor Patch",
+         "version":"2.0.2",
+         "date":"10/06/2026",
+         "titleKey":"Google Sign-In & Polish",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "A few improvements have been done across the game's systems.",
-                  "This is a small patch before our next large patch which will include several art and audio asset adjustments.",
-                  "Thank you for your continued support, make sure to rate us and leave a review on the Play Store!"
+                  "Google Sign-In is here: log in and link your game profile with your Google account.",
+                  "Reworked level selection with a brand-new world map.",
+                  "Level 1-1 reworked with an updated opening and an endless track."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-          "Fixed Strength's taunt failing to target properly",
-                  "App icon adjusted on Android devices.",
-                  "Fixed issue with screen size on Windows devices.",
-          "Added additional information to privacy policy.",
-          "Added several Italian translations that were missing before."
+                  "Fixed towers not being restored correctly after losing a life.",
+                  "Fixed dialogue text speed.",
+                  "Patch notes moved into the Settings menu, with visual fixes.",
+                  "Waypoint and collision adjustments across all maps.",
+                  "Added several missing Italian translations.",
+                  "Various stability and audio fixes."
                ]
             }
          ]
