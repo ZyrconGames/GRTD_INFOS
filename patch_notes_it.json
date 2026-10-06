@@ -1,26 +1,27 @@
 {
    "patchNotes":[
       {
-         "version":"2.0.1",
-         "date":"09/19/2026",
-         "titleKey":"Patch Minore",
+         "version":"2.0.2",
+         "date":"10/06/2026",
+         "titleKey":"Accesso Google e Rifiniture",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "Sono stati apportati alcuni miglioramenti ai sistemi del gioco.",
-                  "Questa è una piccola patch che precede la nostra prossima grande patch, che includerà diverse modifiche agli asset artistici e audio.",
-                  "Grazie per il vostro continuo supporto, ricordatevi di valutarci e di lasciare una recensione sul Play Store!"
+                  "Arriva l'accesso con Google: accedi e collega il tuo profilo di gioco al tuo account Google.",
+                  "Selezione dei livelli rinnovata con una nuovissima mappa del mondo.",
+                  "Livello 1-1 rielaborato con una nuova introduzione e una endless track."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "Risolto il problema per cui la provocazione di Strength non riusciva a colpire correttamente il bersaglio.",
-                  "Modificata l'icona dell'app sui dispositivi Android.",
-                  "Risolto il problema con le dimensioni dello schermo sui dispositivi Windows.",
-                  "Aggiunte ulteriori informazioni all'informativa sulla privacy.",
-                  "Aggiunte diverse traduzioni italiane che prima mancavano."
+                  "Corretto il ripristino non corretto delle torri dopo aver perso una vita.",
+                  "Corretta la velocità del testo nei dialoghi.",
+                  "Le patch notes sono state spostate nel menu Impostazioni, con correzioni visive.",
+                  "Regolazioni di waypoint e collisioni su tutte le mappe.",
+                  "Aggiunte diverse traduzioni italiane mancanti.",
+                  "Varie correzioni di stabilità e audio."
                ]
             }
          ]
