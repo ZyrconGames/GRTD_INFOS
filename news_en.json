@@ -1,10 +1,10 @@
 {
    "news":[
       {
-         "newsID":"Launch_2_0_3",
-         "titleKey":"Sign In & Settle In",
-         "bodyKey":"Version 2.0.3 is here! You can now sign in and link your progress with Google, explore a freshly reworked level selection, and jump into an improved Level 1-1.\n\nWe've also squashed several bugs and added more Italian translations. Thank you for your continued support, bigger things are still on the horizon!",
-         "date":"06/10/2026",
+         "newsID":"Launch_2_0_4",
+         "titleKey":"Fresh Look, Smoother Play",
+         "bodyKey":"Version 2.0.4 is here! Difficulty now has brand-new icons, the Endless map selection has been reorganized, and buttons work better on mobile.\n\nWe've also shortened the dialogues, added new music to Level 1-5 and fixed several bugs. Thank you for your continued support!",
+         "date":"11/16/2026",
          "iconUrl":""
       }
    ]
