@@ -1,27 +1,26 @@
 {
    "patchNotes":[
       {
-         "version":"2.0.3",
-         "date":"10/06/2026",
-         "titleKey":"Accesso Google e Rifiniture",
+         "version":"2.0.4",
+         "date":"16/11/2026",
+         "titleKey":"Look Rinnovato e Rifiniture",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "Arriva l'accesso con Google: accedi e collega il tuo profilo di gioco al tuo account Google.",
-                  "Selezione dei livelli rinnovata con una nuovissima mappa del mondo.",
-                  "Livello 1-1 rielaborato con una nuova introduzione e una endless track."
+                  "Nuove icone di difficoltà.",
+                  "Selezione mappa Endless riorganizzata, con l'opzione Random rimossa.",
+                  "Nuova musica per il livello 1-5."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "Corretto il ripristino non corretto delle torri dopo aver perso una vita.",
-                  "Corretta la velocità del testo nei dialoghi.",
-                  "Le patch notes sono state spostate nel menu Impostazioni, con correzioni visive.",
-                  "Regolazioni di waypoint e collisioni su tutte le mappe.",
-                  "Aggiunte diverse traduzioni italiane mancanti.",
-                  "Varie correzioni di stabilità e audio."
+                  "Bottoni migliorati con pieno supporto mobile.",
+                  "Dialoghi più corti e fluidi.",
+                  "Correzioni visive ai livelli 1-2 e 1-4.",
+                  "Corretti errori nelle animazioni UI.",
+                  "Varie correzioni di stabilità."
                ]
             }
          ]
