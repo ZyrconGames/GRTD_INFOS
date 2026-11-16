@@ -1,27 +1,26 @@
 {
    "patchNotes":[
       {
-         "version":"2.0.3",
-         "date":"06/10/2026",
-         "titleKey":"Google Sign-In & Polish",
+         "version":"2.0.4",
+         "date":"11/16/2026",
+         "titleKey":"Fresh Look & Polish",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "Google Sign-In is here: log in and link your game profile with your Google account.",
-                  "Reworked level selection with a brand-new world map.",
-                  "Level 1-1 reworked with an updated opening and an endless track."
+                  "New difficulty icons.",
+                  "Reorganized Endless map selection, with the Random option removed.",
+                  "New music for Level 1-5."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "Fixed towers not being restored correctly after losing a life.",
-                  "Fixed dialogue text speed.",
-                  "Patch notes moved into the Settings menu, with visual fixes.",
-                  "Waypoint and collision adjustments across all maps.",
-                  "Added several missing Italian translations.",
-                  "Various stability and audio fixes."
+                  "Improved buttons with full mobile support.",
+                  "Shorter and smoother dialogues.",
+                  "Visual fixes to levels 1-2 and 1-4.",
+                  "Fixed UI animation errors.",
+                  "Various stability fixes."
                ]
             }
          ]
