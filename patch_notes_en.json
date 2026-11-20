@@ -1,25 +1,21 @@
 {
    "patchNotes":[
       {
-         "version":"2.0.4",
-         "date":"11/16/2026",
-         "titleKey":"Fresh Look & Polish",
+         "version":"2.0.5",
+         "date":"11/20/2026",
+         "titleKey":"Achievements & Polish",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "New difficulty icons.",
-                  "Reorganized Endless map selection, with the Random option removed.",
-                  "New music for Level 1-5."
+                  "New Achievements system."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "Improved buttons with full mobile support.",
-                  "Shorter and smoother dialogues.",
-                  "Visual fixes to levels 1-2 and 1-4.",
-                  "Fixed UI animation errors.",
+                  "Improved scrollbars.",
+                  "Endless map selection panel fixes.",
                   "Various stability fixes."
                ]
             }
