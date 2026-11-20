@@ -1,9 +1,9 @@
 {
    "news":[
       {
-         "newsID":"Launch_2_0_5",
+         "newsID":"Launch_2_0_6",
          "titleKey":"Achievements Are Here",
-         "bodyKey":"Version 2.0.5 is here! Achievements make their debut, the scrollbars have been improved, and the Endless map selection panel has been fixed.\n\nWe've also made several stability fixes. Thank you for your continued support!",
+         "bodyKey":"Version 2.0.6 is here! Achievements make their debut, the scrollbars have been improved, and the Endless map selection panel has been fixed.\n\nWe've also made several stability fixes. Thank you for your continued support!",
          "date":"11/20/2026",
          "iconUrl":""
       }
