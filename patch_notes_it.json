@@ -1,25 +1,21 @@
 {
    "patchNotes":[
       {
-         "version":"2.0.4",
-         "date":"16/11/2026",
-         "titleKey":"Look Rinnovato e Rifiniture",
+         "version":"2.0.5",
+         "date":"20/11/2026",
+         "titleKey":"Achievement e Rifiniture",
          "sections":[
             {
                "type":"features",
                "itemKeys":[
-                  "Nuove icone di difficoltà.",
-                  "Selezione mappa Endless riorganizzata, con l'opzione Random rimossa.",
-                  "Nuova musica per il livello 1-5."
+                  "Nuovo sistema di Achievement."
                ]
             },
             {
                "type":"improvements",
                "itemKeys":[
-                  "Bottoni migliorati con pieno supporto mobile.",
-                  "Dialoghi più corti e fluidi.",
-                  "Correzioni visive ai livelli 1-2 e 1-4.",
-                  "Corretti errori nelle animazioni UI.",
+                  "Scrollbar migliorate.",
+                  "Correzioni al pannello di selezione mappa Endless.",
                   "Varie correzioni di stabilità."
                ]
             }
